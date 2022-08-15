@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kanban-firestarter": {
+      "hosting": {
+        "firestarter": [
+          "kanban-firestarter"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kanban-firestarter"
+  }
+}
